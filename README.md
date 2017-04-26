@@ -1,4 +1,4 @@
-# QUATERNION CLASS
+# Quaternion Class
 This quaternion class may be used by any, I encourage you to even add edits that benefit it.
 
 ## Status:
